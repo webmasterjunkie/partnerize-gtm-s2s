@@ -1,0 +1,6 @@
+homepage: "https://partnerize.com/en"
+documentation: "https://github.com/webmasterjunkie/partnerize-gtm-s2s/blob/master/README.md"
+versions:
+  # Latest version
+  - sha: 
+    changeNotes:
