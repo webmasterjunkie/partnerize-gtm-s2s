@@ -2,5 +2,5 @@ homepage: "https://partnerize.com/en"
 documentation: "https://github.com/webmasterjunkie/partnerize-gtm-s2s/blob/master/README.md"
 versions:
   # Latest version
-  - sha: 
-    changeNotes:
+  - sha: aaac24d1d50ac0a8b91df246213642c85f736032
+    changeNotes: Add Template
