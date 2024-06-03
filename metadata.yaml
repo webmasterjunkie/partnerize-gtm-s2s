@@ -2,5 +2,8 @@ homepage: "https://partnerize.com/en"
 documentation: "https://github.com/webmasterjunkie/partnerize-gtm-s2s/blob/master/README.md"
 versions:
   # Latest version
+  - she: c22cb3a1f43c30440243d5fbc0150bc0e185754e
+    changeNotes: Change to `encodeUri` API resource
+  # Older versions
   - sha: aaac24d1d50ac0a8b91df246213642c85f736032
     changeNotes: Add Template
